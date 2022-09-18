@@ -1,0 +1,11 @@
+{
+    "id":           "branding",
+    "type":         "mod",
+    "name":         "Branding",
+    "description":  "Show your support by voluntarily displaying references to FOSSBilling.",
+    "homepage_url": "https://fossbilling.org",
+    "author":       "FOSSBilling",
+    "author_url":   "https://fossbilling.org",
+    "license":      "https://fossbilling.org/license.txt",
+    "version":      "0.0.1"
+}

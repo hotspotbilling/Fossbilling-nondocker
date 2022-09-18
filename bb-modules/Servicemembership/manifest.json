@@ -1,0 +1,11 @@
+{
+    "id":           "servicemembership",
+	"type":         "mod",
+    "name":         "Membership product",
+    "description":  "Sell membership subscriptions to clients",
+    "homepage_url": "http://github.com/boxbilling/",
+    "author":       "FOSSBilling",
+    "author_url":   "http://extensions.boxbilling.org/",
+    "license":      "https://www.fossbilling.org/license.txt",
+    "version":      "1.0.0"
+}

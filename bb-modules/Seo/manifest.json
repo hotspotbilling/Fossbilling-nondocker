@@ -1,0 +1,12 @@
+{
+    "id":           "seo",
+    "type":         "mod",
+    "name":         "SEO tools",
+    "description":  "Ping sitemap to Google, Yahoo and Bing",
+    "icon_url":     "icon.png",
+    "homepage_url": "http://github.com/boxbilling/",
+    "author":       "FOSSBilling",
+    "author_url":   "http://extensions.boxbilling.org/",
+    "license":      "https://www.fossbilling.org/license.txt",
+    "version":      "1.0.0"
+}

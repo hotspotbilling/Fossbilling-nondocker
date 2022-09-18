@@ -1,0 +1,13 @@
+/.htaccess
+bb-config*
+!bb-config-sample.php
+bb-data/log/*
+bb-data/cache/*
+bb-data/uploads/*
+bb-data/tmp.txt
+bb-test.php
+vendor*
+install/logs/*
+!bb-data/cache/index.html
+!bb-data/log/index.html
+!bb-data/uploads/index.html
